@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "m zakia",
+  "author": "shahan",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.3.2"
