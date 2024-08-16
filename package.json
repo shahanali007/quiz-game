@@ -1,6 +1,6 @@
 {
-  "name": "cls-quiz-game",
-  "version": "1.0.0",
+  "name": "myquizgame-867",
+  "version": "1.0.1",
   "description": "This is quiz cli project,which consists of MSQS question having 10 marks of each question.",
   "main": "index.js",
   "type": "module",

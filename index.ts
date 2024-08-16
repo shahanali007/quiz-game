@@ -49,7 +49,7 @@ let userInput = await inquirer.prompt([
 
 const{question1 , question2 , question3 , question4 , question5} =userInput;
 let correctOptions = ["islamabad", "five", "A", "small","dog"]
-if(question1==="islamabadmarks") marks+=10;
+if(question1==="islamabad") marks+=10;
 if(question2==="five")marks+=10;
 if(question3==="A")marks+=10;
 if(question4==="small")marks+=10;
